@@ -1,2 +1,2 @@
 # web3-crowdfunding
-https://vercel.com/baxsm/web3-crowdfunding
+https://web3-crowdfunding-theta.vercel.app/
